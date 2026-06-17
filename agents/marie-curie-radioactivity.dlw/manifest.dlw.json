@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Radioactivity",
+  "universe": "CUR · Radioactivity (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦Radioactivity:CUR:4967d2⟧",
+  "carbon": "marie-curie-radioactivity.carbon.tiff (TIFF)",
+  "silicon": "marie-curie-radioactivity.silicon.png (PNG)",
+  "seal_sha256": "a56ddf0ae2613524b960f8e7bdfb8711d43ac3705a1e540cff2c6df1df81b029",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

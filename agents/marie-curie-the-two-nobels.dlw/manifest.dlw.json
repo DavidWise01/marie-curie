@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Two Nobels",
+  "universe": "CUR · The Two Nobels (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Two Nobels:CUR:f1122f⟧",
+  "carbon": "marie-curie-the-two-nobels.carbon.tiff (TIFF)",
+  "silicon": "marie-curie-the-two-nobels.silicon.png (PNG)",
+  "seal_sha256": "bfe64ad10aadf904d4f1c31cab05d60201d11350a97edf826021065be8365065",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
