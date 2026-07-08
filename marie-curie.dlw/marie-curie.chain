@@ -4,6 +4,6 @@ slug  : marie-curie
 seal  : b1b8b433d399937f06d50e8b670b7212affbcc02946d161e77b4bfb19e36dea0
 prev  : b4a0d6d76167c0845cde85a545a8481f27dc35b14a39ae8100d392b7aa30a11c
 link  : 7fa7ac004712e3d99147cdff21c11e3f09de904d8fef0993015754760e0c2ef7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
